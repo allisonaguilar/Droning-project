@@ -4,7 +4,7 @@
 
 ### Initial branches: ### 
 
-We will be working with two branches, one called “Main” where the current reviewed and tested version will be stored, and another branch called “Development” where we will be working and testing new releases.  
+We will be working with two branches, one called “Master” where the current reviewed and tested version will be stored, and another branch called “Development” where we will be working and testing new releases.  
 
 
 ### New implementations: 
